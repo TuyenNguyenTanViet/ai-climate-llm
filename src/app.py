@@ -139,7 +139,7 @@ class ClimateStoryGenerator:
         Set up Streamlit user interface with editing options
         """
         st.set_page_config(page_title="Climate Change Story Generator", page_icon=":earth_africa:")
-        st.title("Climate Change Story Generator")
+        st.title("Climate Change Story Generator - University of Southampton")
 
         # Add sidebar with editing options
         st.sidebar.title("Story & Image Options")
